@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717908785182",
+    "project_id": "mr-book-cef4f",
+    "storage_bucket": "mr-book-cef4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717908785182:android:5b868d40d12b6816e0560f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0F2du1PYFSDBbN77XVGQe0hxKXzs1gNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
